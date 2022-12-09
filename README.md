@@ -5,7 +5,7 @@
 ## Testing
 
 Run and Output:
-![TestOutput](images/test output.jpg)
+![TestOutput](images/test output.jpeg)
 
 Since there are no errors, that means that the testing function works and the function used is successful.
 
@@ -14,7 +14,7 @@ Since there are no errors, that means that the testing function works and the fu
 ### Time complexity
 
 Run and Output:
-![TimeComplexityOutput](images/time output.jpg)
+![TimeComplexityOutput](images/time output.jpeg)
 
 As you can see, the time takes to complete running the program obviously increases as the value of N increases as well. That data is visualized using this graph:
 
