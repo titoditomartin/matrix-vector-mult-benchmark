@@ -5,7 +5,7 @@
 ## Testing
 
 Run and Output:
-![TestOutput](gambar2/testoutput.png)
+![TestOutput](images/test output.jpeg)
 
 Since there are no errors, that means that the testing function works and the function used is successful.
 
