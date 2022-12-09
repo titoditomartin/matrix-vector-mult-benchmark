@@ -5,7 +5,7 @@
 ## Testing
 
 Run and Output:
-![TestOutput](images/test output)
+![TestOutput](images/test output.jpeg)
 
 Since there are no errors, that means that the testing function works and the function used is successful.
 
@@ -14,11 +14,11 @@ Since there are no errors, that means that the testing function works and the fu
 ### Time complexity
 
 Run and Output:
-![TimeComplexityOutput](images/time output)
+![TimeComplexityOutput](images/time output.jpeg)
 
 As you can see, the time takes to complete running the program obviously increases as the value of N increases as well. That data is visualized using this graph:
 
-![TimeComplexityResult](images/time)
+![TimeComplexityResult](images/time.jpg)
 
 ### Space complexity
 
@@ -29,4 +29,4 @@ Run and Output:
 
 As you can see, the space it takes while running the program obviously also increases as the value of N increases. That data is also visualized using a graph:
 
-![SpaceComplexityResult](images/space)
+![SpaceComplexityResult](images/space.jpg)
